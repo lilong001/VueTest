@@ -22,6 +22,6 @@ Vue.js学习系列：
 
 * [vue.js2.0实战(8):从VUE-CLI来聊聊ESLint](https://my.oschina.net/brillantzhao/blog/1542699)
 
-* [vue.js2.0实战(9):Vue单元测试Karma+Mocha学习](https://my.oschina.net/brillantzhao/blog/edit)
+* [vue.js2.0实战(9):Vue单元测试Karma+Mocha学习](https://my.oschina.net/brillantzhao/blog/1542705)
 
 欢迎star，欢迎一起探讨学习！
