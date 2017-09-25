@@ -4,11 +4,24 @@ vue.js 学习笔记：
 
 ## 博客地址
 
-* [Vue.js学习系列一 —— vue-router2学习实践笔记（附DEMO）](http://www.jianshu.com/p/8013d8d37bd0)
-* [Vue.js学习系列二 —— vuex学习实践笔记（附DEMO）](http://www.jianshu.com/p/d6f7e11f18af)
-* [Vue.js学习系列三 —— axios和网络传输相关知识的学习实践](http://www.jianshu.com/p/8e5fb763c3d7)
-* [Vue.js学习系列四 —— Webpack打包工具的使用](http://www.jianshu.com/p/aef34acd111f)
-* [Vue.js学习系列五 —— 从VUE-CLI来聊聊ESLint](http://www.jianshu.com/p/efb6fbed6fac)
-* [Vue.js学习系列六 —— Vue单元测试Karma+Mocha学习笔记](http://www.jianshu.com/p/073d25a3bba0)
+Vue.js学习系列：
 
-之后还会持续更新本项目，欢迎star关注我哦~
+* [vue.js2.0实战(1):搭建开发环境及构建项目](https://my.oschina.net/brillantzhao/blog/1541638)
+
+* [vue.js2.0实战(2):IDE配置及使用](https://my.oschina.net/brillantzhao/blog/1541702) 
+
+* [vue.js2.0实战(3):基础示例](https://my.oschina.net/brillantzhao/blog/1541821)
+
+* [vue.js2.0实战(4):vue-router2学习实践](https://my.oschina.net/brillantzhao/blog/1541870)
+
+* [vue.js2.0实战(5):vuex学习实践](https://my.oschina.net/brillantzhao/blog/1541896)
+
+* [vue.js2.0实战(6):axios和网络传输相关知识的学习实践](https://my.oschina.net/brillantzhao/blog/1541915)
+
+* [vue.js2.0实战(7):Webpack打包工具使用](https://my.oschina.net/brillantzhao/blog/1541919)
+
+* [vue.js2.0实战(8):从VUE-CLI来聊聊ESLint](https://my.oschina.net/brillantzhao/blog/1542699)
+
+* [vue.js2.0实战(9):Vue单元测试Karma+Mocha学习](https://my.oschina.net/brillantzhao/blog/edit)
+
+欢迎star，欢迎一起探讨学习！
